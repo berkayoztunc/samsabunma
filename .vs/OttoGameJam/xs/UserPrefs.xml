@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{60AD5FD2-CF3D-E833-6929-08F0D3552CE1}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpellControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnemyControle.cs" Line="60" Column="28" />
+      <File FileName="Assets/Scripts/SpellControl.cs" Line="77" Column="28" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" Line="18" Column="6" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="95" Column="43" />
+      <File FileName="Assets/Scripts/MenuKontrol.cs" Line="25" Column="1" />
+      <File FileName="Assets/EventManager.cs" Line="17" Column="1" />
+      <File FileName="Assets/SimpleHealthBar/Healthbar.cs" Line="11" Column="1" />
+      <File FileName="Assets/EntranceCameraControl.cs" Line="32" Column="8" />
+      <File FileName="Assets/DeathController.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/EnemyBiggerControle.cs" Line="69" Column="33" />
+      <File FileName="Assets/Scripts/PrefManager.cs" Line="15" Column="2" />
+      <File FileName="Assets/TextTyperScript.cs" Line="19" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OttoGameJam" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="SpellControl.cs" selected="True" />
+                </Node>
+                <Node name="SimpleHealthBar" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="OttoGameJam" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
